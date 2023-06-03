@@ -28,3 +28,4 @@ variable "default_tags" {
 
   variable "bucket" {}
   variable "key" {}
+  variable "sg_name" {}
